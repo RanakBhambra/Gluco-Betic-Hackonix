@@ -1,0 +1,4 @@
+# GlucoBetic
+
+A machine learning project which predicts the state of diabetes of the user with the help of the K-NN Algorithm. During the pandemic, many people couldn't meet doctors because of two major reasons. First, there was a lockdown resulting in no transport services. Secondly, most of the doctors were on covid duties that is why they couldn't attend traditional patients. This project is aimed to solve the basic problem of identifying that the stage of diabetes that person is going through. The model analysis different parameters such as age, cholesterol, BMI, etc. in order to provide this information.
+Screenshots for the same have been added in the images.pdf
